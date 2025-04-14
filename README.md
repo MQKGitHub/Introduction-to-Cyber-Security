@@ -8,11 +8,11 @@ Each room is documented in its own folder within this repo, with detailed notes 
 
 ## 📚 Room Index
 
-| Room Name                | Focus Area         | Status         | Link                                                                 |
-|--------------------------|--------------------|----------------|----------------------------------------------------------------------|
-| Offensive Security Intro | Ethical Hacking    | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Offensive-Security-Intro) |
-| Defensive Security Intro | System Defence     | 🔄 In Progress  | *Coming soon*                                                        |
-| Careers in Cyber         | Career Exploration | ⏳ Not Started  | *Coming soon*                                                        |
+| Room Name                | Status         | Link                                                                 |
+|--------------------------|----------------|----------------------------------------------------------------------|
+| Offensive Security Intro | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Offensive-Security-Intro) |
+| Defensive Security Intro | 🔄 In Progress  | *Coming soon*                                                        |
+| Careers in Cyber         | ⏳ Not Started  | *Coming soon*                                                        |
 
 ---
 
