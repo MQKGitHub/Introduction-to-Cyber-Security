@@ -11,8 +11,7 @@ Each room is documented in its own folder within this repo, with detailed notes 
 | Room Name                | Status         | Link                                                                 |
 |--------------------------|----------------|----------------------------------------------------------------------|
 | Offensive Security Intro | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Offensive-Security-Intro) |
-| Defensive Security Intro | 🔄 In Progress  | *Coming soon*                                                        |
-| Careers in Cyber         | ⏳ Not Started  | *Coming soon*                                                        |
+| Defensive Security Intro | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Defensive-Security-Intro) |
 
 ---
 
@@ -25,17 +24,6 @@ Each room is documented in its own folder within this repo, with detailed notes 
 ### 🛡️ Defensive Security Intro
 - Exploring how defenders secure systems, analyse logs, and monitor network activity.
 - Write-up will be added once the room is complete.
-
-### 💼 Careers in Cyber
-- A room focused on exploring different cyber security job roles.
-- Real-life stories and inspiration from people who transitioned into cyber.
-- Write-up coming soon.
-
----
-
-## 📌 Status: In Progress
-
-I'm working through each room steadily and updating this repo as I go. Everything I write up is aimed to help both my learning and others on the same path.
 
 ---
 
