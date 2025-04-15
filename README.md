@@ -22,8 +22,8 @@ Each room is documented in its own folder within this repo, with detailed notes 
 - Gained a hands-on understanding of how penetration testers look for vulnerabilities.
 
 ### 🛡️ Defensive Security Intro
-- Exploring how defenders secure systems, analyse logs, and monitor network activity.
-- Write-up will be added once the room is complete.
+- Learned the basics of how cyber defenders monitor, investigate, and respond to threats using tools like SIEM.
+- Explored core concepts like threat intelligence, malware analysis, digital forensics, and the role of a SOC team.
 
 ---
 
