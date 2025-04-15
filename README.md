@@ -18,8 +18,8 @@ Each room is documented in its own folder within this repo, with detailed notes 
 ## 🔍 Overview
 
 ### 🔐 Offensive Security Intro
-- Performed my first legal hack on a simulated banking website using tools like **Gobuster**.
-- Gained a hands-on understanding of how penetration testers look for vulnerabilities.
+- Performed my first legal hack on a simulated bank website using **Gobuster** to find hidden pages.
+- Gained practical knowledge on how penetration testers look for vulnerabilities and how attackers exploit them.
 
 ### 🛡️ Defensive Security Intro
 - Learned the basics of how cyber defenders monitor, investigate, and respond to threats using tools like SIEM.
