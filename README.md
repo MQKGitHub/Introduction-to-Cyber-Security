@@ -12,6 +12,7 @@ Each room is documented in its own folder within this repo, with detailed notes 
 |--------------------------|----------------|----------------------------------------------------------------------|
 | Offensive Security Intro | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Offensive-Security-Intro) |
 | Defensive Security Intro | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Defensive-Security-Intro) |
+| Search Skills            | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Search-Skills)            |
 
 ---
 
@@ -24,6 +25,10 @@ Each room is documented in its own folder within this repo, with detailed notes 
 ### 🛡️ Defensive Security Intro
 - Learned the basics of how cyber defenders monitor, investigate, and respond to threats using tools like SIEM.
 - Explored core concepts like threat intelligence, malware analysis, digital forensics, and the role of a SOC team.
+
+### 🔍 Search Skills  
+- Learned how to use search operators like `site:`, `filetype:`, and `intitle:` to quickly locate useful technical resources.  
+- Practised using OSINT tools like Shodan, Censys, and VirusTotal to gather valuable reconnaissance data for cyber investigations.
 
 ---
 
